@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ashok 👋
 
 <!--
 **ashokide/ashokide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ashokide&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ashokide&langs_count=5&theme=tokyonight)]()
