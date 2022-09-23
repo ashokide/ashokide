@@ -1,7 +1,4 @@
 ### Hi there, I'm Ashok 👋
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 <!--
 **ashokide/ashokide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ashokide&count_private=true&theme=tokyonight&showicons=true)]()
 
