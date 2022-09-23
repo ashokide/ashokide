@@ -13,53 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
-  <h1>Hi there, I'm Ashok 👋</h1>
-</div>
+#### Hi there, I'm Ashok 👋
 
-<div class="flex-container">
-   
-   <div class="flex-items">
-   
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashokide&theme=react&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashokide&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ashokide&count_private=true&theme=tokyonight&showicons=true)]()
-   
-   </div>
-   
-   <div class="flex-items">
-   
-   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ashokide&langs_count=5&theme=tokyonight)]()
-   
-   </div>
-</div>
-  
-  
-.flex-container {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: space-around;
-  align-items: stretch;
-  align-content: stretch;
-}
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashokide&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-.flex-items:nth-child(1) {
-  display: block;
-  flex-grow: 0;
-  flex-shrink: 1;
-  flex-basis: auto;
-  align-self: auto;
-  order: 0;
-}
-
-.flex-items:nth-child(2) {
-  display: block;
-  flex-grow: 0;
-  flex-shrink: 1;
-  flex-basis: auto;
-  align-self: auto;
-  order: 0;
-}
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ashokide&count_private=true&theme=tokyonight&showicons=true)]()
+   
 
 
