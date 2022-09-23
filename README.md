@@ -18,6 +18,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashokide&theme=react&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ashokide&count_private=true&theme=tokyonight&showicons=true)]()
   
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ashokide&langs_count=5&theme=tokyonight)]()
