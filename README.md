@@ -13,13 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Hi there, I'm Ashok 👋
+  
+### Hi there, I'm Ashok! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashokide&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#### A Service Now and Full Stack Developer by day ☼ , Home Lab freak by night ☾
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashokide&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+- 🌍 I'm mostly active within the **LinkedIn Community**
+- 💬 `ping` me about **full stack**, **servicenow**, **homelab**
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashokide&layout=compact)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ashokide&count_private=true&showicons=true)]()
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashokide&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/{ashokide}/count.svg)
+
+Note: The top languages do not indicate my skill level or anything like that. It is simply a metric of which languages have been hosted by me on GitHub based on their usage across repositories. There are others that I haven't uploaded to GitHub.
    
 
 
