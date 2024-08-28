@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ashokide)](https://git.io/streak-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/{ashokide}/count.svg)
-
 Note: The top languages do not indicate my skill level or anything like that. It is simply a metric of which languages have been hosted by me on GitHub based on their usage across repositories. There are others that I haven't uploaded to GitHub.
    
 
