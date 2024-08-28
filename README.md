@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ashokide&count_private=true&showicons=true)]()
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashokide&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashokide)](https://git.io/streak-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/{ashokide}/count.svg)
 
